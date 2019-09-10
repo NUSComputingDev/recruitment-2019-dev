@@ -1,5 +1,5 @@
 baseurl = "https://example.org/"
-title = "22nd MC Recruiment Drive"
+title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,8 +14,8 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "The 22nd Management Committee is looking to recruit passionate and committed sub-committee members to serve the SoC community. There are a total of nine different cells from which you can join to contribute and spice up the life in SoC. Find out more about the nine cells below!",
-    "Sign-ups closes on 26 September 2019, 2359."
+    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Originally from Toronto, currently based in London."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

@@ -6,7 +6,7 @@ date = "2019-09-02T18:25:22+05:30"
 title = "Marketing Subcomm Recruitment"
 weight = 3
 +++
->Join us as project directors and committee members!
+>Let’s bring SoC merch to greater heights and let everyone know of our SoC pride!
 
 <!--more-->
 
